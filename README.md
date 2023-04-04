@@ -1,4 +1,4 @@
-# iCardioTox-AGN: Predicting Cardiotoxicity of Molecules using Attention-based Graph Neural Network
+# iCardioTox-AGN: Predicting cardiotoxicity of molecules using attention-based graph neural network
 #### T. Vinh, L. Nguyen, Q. H. Trinh, T-H Nguyen-Vo, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 ![alt text](https://github.com/mldlproject/2023-iCardioTox-AGN/blob/main/iCardioTox_AGN_abs.svg)
