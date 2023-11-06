@@ -11,7 +11,7 @@ In drug discovery, the search for new and effective medications is often hindere
 Experimental results indicated that our method outperformed the other methods. Also, an assessment of model stability confirmed the model's applicability. To assist researchers in evaluating the cardiotoxicity of molecules, we have developed an easy-to-use online web server that incorporates our model.
 
 ## Availability and implementation
-Source code and data are available upon request.
+The code and data are now available upon request. They will then be available for download after this study is published.
 
 ## Web-based Application
 - [Source 1](http://124.197.54.240:8007/)
